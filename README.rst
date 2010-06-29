@@ -13,8 +13,3 @@ Si quieres colaborar puedes clonar el proyecto en
 http://github.com/pointtonull/PyDelaunay
 o reportar cualquier error/deseo en
 http://github.com/pointtonull/PyDelaunay/issues .
-
-
-.. _Barbie Seahorse Adventure: http://www.imitationpickles.org/barbie/
-.. _Python: http://www.python.org/
-.. _PyGame: http://www.pygame.org/
